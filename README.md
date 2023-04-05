@@ -1,4 +1,5 @@
 # Social Bee Frontend
+## Developed by Digvijay Sethi (digvijaysethi1@gmail.com), Samriddhi Puranik (samriddhi.18puranik@gmail.com), and Ritik Chourey (ritikchoureyd90@gmail.com)
 
 This is the frontend for Social Bee, a full-stack social media website. The frontend is built with ReactJS and Material UI.
 
@@ -14,3 +15,6 @@ Then, run the frontend by typing `npm run start` and the project will start.
 
 - ReactJS
 - Material UI
+
+## Output
+
