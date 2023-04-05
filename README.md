@@ -19,7 +19,6 @@ Then, run the frontend by typing `npm run start` and the project will start.
 
 ## Output
 
-
 https://user-images.githubusercontent.com/59555227/230168165-da7974c0-061e-459a-86fa-a3b6b5c14c4f.mp4
 
 
